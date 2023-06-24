@@ -85,3 +85,7 @@ Please refer to the respective Jupyter notebooks, WeatherPy.ipynb and VacationPy
 Through this project, we aim to uncover meaningful insights regarding the relationship between weather variables and latitude. By visualizing and analyzing the data, we can observe how temperature, humidity, cloudiness, and wind speed change with proximity to the equator. These findings can contribute to our understanding of weather patterns and support informed decision-making for future travel plans.
 
 Note: The starter code and necessary dependencies are provided in the respective Jupyter notebooks.
+
+
+Source:
+https://courses.bootcampspot.com/courses/2799/assignments/42949?module_item_id=802979
